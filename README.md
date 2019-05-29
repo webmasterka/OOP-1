@@ -1,2 +1,1 @@
-"# Flickity" 
 "# OOP-1" 
